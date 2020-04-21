@@ -7,9 +7,9 @@
     <packaging>jar</packaging>
     <developers>
         <developer>
-            <id>jeszy</id>
-            <name>Péter Jeszenszky</name>
-            <email>jeszenszky.peter@inf.unideb.hu</email>
+            <id>lovaszbotond</id>
+            <name>Botond Lovasz</name>
+            <email>botond.lovasz@gmail.com</email>
             <organization>Faculty of Informatics, University of Debrecen</organization>
             <organizationUrl>https://www.inf.unideb.hu/</organizationUrl>
         </developer>
